@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm William</h1>
 <h3 align="center">A passionate full-stack developer in Bay area</h3>
 
-- 🌱 I’m currently learning **Java, Spring Framework**
+- 👨‍💻 All of my projects are available at [wlliu.com](wlliu.com)
 
 - 🤝 I’m looking for a **full-stack development job**
 
-- 👨‍💻 All of my projects are available at [wlliu.com](wlliu.com)
-
 - 💬 Ask me about **react, next.js, AWS EC2**
+
+- 🌱 I’m currently learning **Java, Spring Framework**
 
 - 📫 How to reach me **wliu9606@gmail.com**
 
