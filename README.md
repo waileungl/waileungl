@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm William</h1>
 <h3 align="center">A passionate full-stack developer in Bay area</h3>
 
-- 👨‍💻 All of my projects are available at [wlliu.com](wlliu.com)
+- 👨‍💻 All of my projects are available at [My Personal Website](https://www.wlliu.com)
 
 - 🤝 I’m looking for a **full-stack development job**
 
