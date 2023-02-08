@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **wliu9606@gmail.com**
 
-- 📄 Know about my experiences [https://www.wlliu.com/William_Liu_Resume.pdf](https://www.wlliu.com/William_Liu_Resume.pdf)
+- 📄 Know about my experiences [My Resume](https://www.wlliu.com/William_Liu_Resume.pdf)
 
 - ⚡ Fun fact **I am a huge SRPG game lover**
 
