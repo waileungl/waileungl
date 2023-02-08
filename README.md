@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [My Resume](https://www.wlliu.com/William_Liu_Resume.pdf)
 
-- ⚡ Fun fact **I am a huge SRPG game lover**
+- ⚡ Fun fact **I am a huge SRPG and card game lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
