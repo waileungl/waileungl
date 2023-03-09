@@ -3,17 +3,17 @@
 
 - 👨‍💻 All of my projects are available at [My Personal Website](https://www.wlliu.com)
 
-- 🤝 I’m looking for a **full-stack development job**
+- 🤝 Looking for a **full-stack/Front-end development job**
 
 - 💬 Ask me about **react, next.js, AWS EC2**
 
-- 🌱 I’m currently learning **Java, Spring Framework**
+- 🌱 Currently learning **Java, Spring Framework**
 
-- 📫 How to reach me **wliu9606@gmail.com**
+- 📫 Reach me at **wliu9606@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://www.wlliu.com/William_Liu_Resume.pdf)
 
-- ⚡ Fun fact **I am a huge SRPG and tcg lover**
+- ⚡ Fun fact **I am a huge SRPG and TCG lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
