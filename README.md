@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm William</h1>
-<h3 align="center">A passionate full-stack developer in Bay area</h3>
+<h3 align="center">A passionate front-end developer in Bay area</h3>
 
 - 👨‍💻 All of my projects are available at [My Personal Website](https://www.wlliu.com)
 
 - 🤝 Looking for a **full-stack/Front-end development job**
 
-- 💬 Ask me about **react, next.js, AWS EC2**
+- 💬 Ask me about **react, redux, Typescript**
 
 - 🌱 Currently learning **Java, Spring Framework**
 
