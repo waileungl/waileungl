@@ -1,23 +1,19 @@
-<h1 align="center">Hi 👋, I'm William</h1>
-<h3 align="center">A passionate front-end developer in Bay area</h3>
+<h1 align="center">Hi 👋, I'm William Liu</h1>
+<h3 align="center">A passionate front-end Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [My Personal Website](https://www.wlliu.com)
+- 🤝 Looking for a **full-stack/Front-end development contractor job**
 
-- 🤝 Looking for a **full-stack/Front-end development job**
+- 💬 Ask me about **react, redux, Typescript, node.js**
 
-- 💬 Ask me about **react, redux, Typescript**
+- 📫 Reach me at **will.liu.ui@gmail.com**
 
-- 🌱 Currently learning **Java, Spring Framework**
-
-- 📫 Reach me at **wliu9606@gmail.com**
-
-- 📄 Know about my experiences [My Resume](https://www.wlliu.com/William_Liu_Resume.pdf)
+- 📄 Know about my experiences [My Resume]([https://www.wlliu.com/William_Liu_Resume.pdf](https://docs.google.com/document/d/1rZLz9Zb3WDHY15M6dPhvqayt5Lpd-kkm/edit?usp=sharing&ouid=109533855709697570597&rtpof=true&sd=true))
 
 - ⚡ Fun fact **I am a huge SRPG and TCG lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/willliu06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/willliu06" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/willliuui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/willliuui" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
