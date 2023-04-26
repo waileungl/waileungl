@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm William Liu</h1>
 <h3 align="center">A passionate front-end Engineer</h3>
 
-- 🤝 Looking for a **full-stack/Front-end development contractor job**
+- 🤝 Working as a **Front-end Engineer**
 
 - 💬 Ask me about **react, redux, Typescript, node.js**
 
