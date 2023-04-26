@@ -3,11 +3,9 @@
 
 - 🤝 Working as a **Front-end Engineer**
 
-- 💬 Ask me about **react, redux, Typescript, node.js**
+- 💬 Ask me about **react, redux, Typescript, node.js, Java, prompt engineering**
 
 - 📫 Reach me at **will.liu.ui@gmail.com**
-
-- 📄 Know about my experiences [My Resume]([https://www.wlliu.com/William_Liu_Resume.pdf](https://docs.google.com/document/d/1rZLz9Zb3WDHY15M6dPhvqayt5Lpd-kkm/edit?usp=sharing&ouid=109533855709697570597&rtpof=true&sd=true))
 
 - ⚡ Fun fact **I am a huge SRPG and TCG lover**
 
