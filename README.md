@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react, redux, Typescript, node.js, Java, prompt engineering**
 
-- 📫 Reach me at **will.liu.ui@gmail.com**
+- 📫 Reach me at **wliu9606@gmail.com**
 
 - ⚡ Fun fact **I am a huge SRPG and TCG lover**
 
